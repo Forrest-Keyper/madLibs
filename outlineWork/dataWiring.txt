@@ -1,0 +1,18 @@
+__--**MadLibs Task Orientation**--__
+
+º   dataStructure
+///
+    {} = program/function etc.
+    () = variables, outputs, process variables, etc.
+    [] = objects, possibly additional in future
+///
+
+»random statement generator per
+
+»[madLibs]
+    class/object to store
+        »blanks as an array property which user input dictionary will track for statement concatenation
+        »
+
+»Dictionaries
+    user_input:integer[index in [statement]] to be used for (compiling Statement)

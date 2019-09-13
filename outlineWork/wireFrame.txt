@@ -1,0 +1,61 @@
+__--**MadLibs Task Orientation**--__
+
+º   wireFrame
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> fb5f96ff24eaa2a38457838929070c04a1520a57
+    {} = program/function etc.
+    () = variables, outputs, process variables, etc.
+    [] = objects, possibly additional in future
+
+    {
+
+    accept user inputs;
+
+    place inputs to sentences;
+
+    statement (sentence, paragraph, story);
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> fb5f96ff24eaa2a38457838929070c04a1520a57
+{
+    [words]
+        (scripted_wordBank);
+
+    [sentences]
+        (scripted_wordBank);
+
+    [paragraphs]
+        (scripted_wordBank);
+
+    [stories]
+        (scripted_wordBank);
+
+
+    {user_input}
+
+        (storyType_input);
+
+    {user_input}
+
+        (user_input);
+        (playerBank);
+
+    {statement}
+
+        (statement);
+
+};
+<<<<<<< HEAD
+=======
+
+
+        (scripted_wordBank);
+        (playerBank);
+
+        (Statement);
+    };
+
+>>>>>>> fb5f96ff24eaa2a38457838929070c04a1520a57

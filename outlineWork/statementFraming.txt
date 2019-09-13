@@ -1,0 +1,143 @@
+__--**MadLibs Task Orientation**--__
+//outlining madLibs options etc.
+º   Statement Blocks
+
+adjective = 0;
+adverb = 1;
+noun = 2;
+verb = 3;
+
+
+
+<<<<<<< HEAD
+[singles]
+=======
+[sentence]
+>>>>>>> 1ea2e7eb68820ed1a9a3aa3ac219f24431216092
+    length:
+        3 blanks;
+
+    {0}    "Jimmy decided to [0[0]] while he waited for his [0[1]] to make a [0[2]] pi."
+
+
+            0: verb;
+                »dictionary key = ['verb':'0']
+            1: noun;
+                »dictionary key = ['noun':'1']
+            2: adverb;
+                »dictionary key = ['adverb':'2']
+<<<<<<< HEAD
+
+
+=======
+
+
+
+            [0(verb[0])]
+            [1(noun[1])]
+            [2(adverb[2])]
+
+>>>>>>> 1ea2e7eb68820ed1a9a3aa3ac219f24431216092
+    {1}    "While [1[0]] demolished the [1[1]] spaghetti, a raptor bunny [1[2]] with his friend Reptar."
+
+
+            0: noun;
+            1: adjective;
+            2: verb;
+
+
+    {2}    "Suddenly green lantern [2[0]] his [2[1]] potato through the button of a [2[2]], striking down the devilish deedster dan akroyd."
+
+            0: verb;
+            1: adjective;
+            2: noun;
+
+
+[doubles]
+    length:
+        6 blanks;
+
+<<<<<<< HEAD
+    {0}    "The ball went [0][0] between bounces, from [0][1] palm to [0][2] asphalt [0][3]. There are none whose [0][4] rivals that of a [0][5] toy"
+=======
+    {0}    "Jimmy "
+
+            0:
+            1:
+            2:
+            3:
+            4:
+            5:
+
+
+    {1}    "While [1[0]] demolished the [1[1]] spaghetti, a raptor bunny [1[2]] with his friend Reptar."
+
+            0: noun;
+            1: adjective;
+            2: verb;
+            3.
+            4.
+            5.
+
+    {2}    "Suddenly green lantern [2[0]] his [2[1]] potato through the button of a [2[2]], striking down the devilish deedster dan akroyd."
+>>>>>>> 1ea2e7eb68820ed1a9a3aa3ac219f24431216092
+
+            0:adjective
+            1:noun
+            2:adverb
+            3:verb
+            4:verb
+            5:adverb
+
+
+    {1}    "while [0[0]], Count Montgomery enjoyed watching [0][1] pass the [0][2] palace. [0][3] the count rose on his [0][4], proclaiming 'then they shall have [0][5]!''"
+
+<<<<<<< HEAD
+            0: verb
+            1: noun
+            2: adjective
+            3: adverb
+            4: noun
+            5: noun
+
+    {2}    "0][0] from the [0][1] camel was one thing. Having to remember the [0][2], [0][3], and [0][4] [0][5] elevated the stakes into the danger zone!"
+
+=======
+[story]
+    length:
+        9 blanks;
+
+    {0}    "Jimmy decided to [0[0]] while he waited for his [0[1]] to make a [0[2]] pi."
+
+            0: verb;
+            1: noun;
+            2: adverb;
+            3.
+            4.
+            5.
+            6.
+            7.
+            8.
+
+    {1}    "While [1[0]] demolished the [1[1]] spaghetti, a raptor bunny [1[2]] with his friend Reptar."
+
+            1:
+            0: noun;
+            1: adjective;
+            2: verb;
+            3.
+            4.
+            5.
+            6.
+            7.
+            8.
+
+    {2}    "Suddenly green lantern [2[0]] his [2[1]] potato through the button of a [2[2]], striking down the devilish deedster dan akroyd."
+            2:
+>>>>>>> 1ea2e7eb68820ed1a9a3aa3ac219f24431216092
+            0: verb;
+            1: adjective;
+            2: noun;
+            3: noun;
+            4: adverb;
+            5: noun

@@ -1,0 +1,12 @@
+__--**MadLibs Task Orientation**--__
+
+{Make a game which generates sentences that sound realistic, but are not always sensible.}
+
+[madLibs Program Design]
+    Input: Sentence, Paragraph, Story;
+
+    Input: Part of Speech;
+
+    Processing: Concatenation of prepared sentence bank with inputs to produce sentence, paragraph or story length statements.
+
+    Result: Sentence, Paragraph, Story;
